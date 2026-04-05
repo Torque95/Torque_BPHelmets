@@ -16,7 +16,3 @@ Some helmets in vanilla GTA (like bulletproof or military helmets) silently prev
 2. Add this line to your `server.cfg`:
 
 ensure Torque_BPHelmets
-
-Support
-
-https://discord.gg/rRyhg5mErJ
